@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Dummy_Profile" data-name="Dummy Profile" transform="translate(-32.5 -248.5)">
+    <g id="Dummy_profile-2" data-name="Dummy profile" transform="translate(32.5 248.5)">
+      <g id="young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair" fill="#4d7800" stroke="#c2c2ff" stroke-width="1">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+      </g>
+    </g>
+    <text id="MJ" transform="translate(37.5 264.5)" fill="#fff" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">MJ</tspan></text>
+  </g>
+</svg>

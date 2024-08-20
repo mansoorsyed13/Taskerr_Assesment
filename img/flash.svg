@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.998" height="15.998" viewBox="0 0 15.998 15.998">
+  <g id="_flash" data-name="/flash" transform="translate(-428 -316)">
+    <g id="flash" transform="translate(428 316)">
+      <path id="Vector" d="M8.789,5.813H6.73v-4.8c0-1.12-.607-1.346-1.346-.507l-.533.607L.337,6.246c-.62.7-.36,1.273.573,1.273H2.97v4.8c0,1.12.607,1.346,1.346.507l.533-.607L9.363,7.086C9.983,6.386,9.723,5.813,8.789,5.813Z" transform="translate(3.149 1.333)" fill="#252525"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(15.998 15.998) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
